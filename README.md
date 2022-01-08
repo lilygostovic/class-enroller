@@ -1,0 +1,1 @@
+A tool to register for McGill classes during add/drop period
