@@ -7,6 +7,6 @@ The first two weeks of every semester at McGill is called the add/drop period. D
 
 ## Requirements:
 1. valid McGill email and password
-2. python `python --version`
+2. python (install: https://www.python.org/downloads/)
 3. selenium `pip3 install selenium`
 4. chrome driver in package folder (install: https://sites.google.com/a/chromium.org/chromedriver/downloads)
