@@ -49,4 +49,4 @@ login()
 navigate_to_registration()
 input_crn()
 
-# driver.quit()
+driver.quit()
