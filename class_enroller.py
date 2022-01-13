@@ -2,7 +2,6 @@
 
 # imports
 from selenium import webdriver
-import selenium
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EXP_COND
@@ -14,8 +13,8 @@ driver.get("https://horizon.mcgill.ca/pban1/twbkwbis.P_WWWLogin")
 
 
 # vars from user
-un='lilith.gostovic@mail.mcgill.ca'
-pw='C1r1mel167'
+un='first.last@mail.mcgill.ca'
+pw='sample_pw'
 crn='12345'
 
 def login():
